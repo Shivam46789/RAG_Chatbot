@@ -1,4 +1,4 @@
-# RAG Chatbot — Document QnA
+# RAG Chatbot — Multiple Document QnA
 
 An intelligent Document Question & Answer chatbot that allows users to upload PDF documents and ask questions about their content using natural language.
 
